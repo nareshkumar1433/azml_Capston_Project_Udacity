@@ -98,18 +98,18 @@ n_cross_validations | No. of cross validations to perform | 5
 
 ### Results
 
-In our experiment we found out `SparseNormalizer GradientBoosting` to be the best model based on the accuracy metric. The accuracy score for this models was `0.99411`.
+In our experiment we found out `TruncatedSVDWrapper,XGBoost Classifier` to be the best model based on the accuracy metric. The accuracy score for this models was `0.99412`.
 
-The parameters for the model `SparseNormalizer GradientBoosting` are described in the table below.
+The parameters for the model `TruncatedSVDWrapper,XGBoost Classifier` are described in the table below.
 
-`SparseNormalizer`
+`TruncatedSVDWrapper`
 
 Parameters | Values
 ---------- | ------
 copy | True
 norm | max
 
-`GradientBoosting`
+`XGBoost Classifier`
 
 Parameters | Values
 ---------- | ------
@@ -229,7 +229,7 @@ The screencast shows the entire process of the working ML application, including
 1. Demo of the deployed model
 1. Demo of a sample request sent to the endpoint and its response
 
-[video](https://www.youtube.com/watch?v=zH0o5B2BU-c)
+[video](https://www.youtube.com/watch?v=NfnHDHMUnvM)
 
 ## Citation
 Yöntem, M , Adem, K , İlhan, T , Kılıçarslan, S. (2019). DIVORCE PREDICTION USING CORRELATION BASED FEATURE SELECTION AND ARTIFICIAL NEURAL NETWORKS. Nevşehir Hacı Bektaş Veli University SBE Dergisi, 9 (1), 259-273.
