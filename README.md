@@ -229,7 +229,7 @@ The screencast shows the entire process of the working ML application, including
 1. Demo of the deployed model
 1. Demo of a sample request sent to the endpoint and its response
 
-[![Capstone Project Azure Machine Learning Engineer](https://youtu.be/zH0o5B2BU-c)
+[![Capstone Project Azure Machine Learning Engineer](https://www.youtube.com/watch?v=zH0o5B2BU-c)
 
 ## Citation
 Yöntem, M , Adem, K , İlhan, T , Kılıçarslan, S. (2019). DIVORCE PREDICTION USING CORRELATION BASED FEATURE SELECTION AND ARTIFICIAL NEURAL NETWORKS. Nevşehir Hacı Bektaş Veli University SBE Dergisi, 9 (1), 259-273.
