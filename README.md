@@ -152,7 +152,7 @@ warm_start | False
 
 **Best Model**
 
-![autoML_bestModel](Images/autoML_bestModel.png)
+![autoML_bestModel](Images/autoML_bestModel.PNG)
 
 ## Hyperparameter Tuning
 
@@ -187,15 +187,14 @@ Max Iterations (max_iter) | 150
 
 **Run Details Widget**
 
-![hyperDrive_runDetails](Images/hyperDrive_runDetails.png)
+![hyperDrive_runDetails](Images/hyperDrive_runDetails.PNG)
 
-![hyperDrive_runDetails1](Images/hyperDrive_runDetails1.png)
+![hyperDrive_runDetails1](Images/hyperDrive_runDetails1.PNG)
 
-![hyperDrive_hyperParams](Images/hyperDrive_hyperParams.png)
-
+![hyperDrive_hyperParams](Images/hyperDrive_hyperParams.PNG)
 **Best Model**
 
-![hyperDrive_bestModel](Images/hyperDrive_bestModel.png)
+![hyperDrive_bestModel](Images/hyperDrive_bestModel.PNG)
 
 ## Model Deployment
 
@@ -216,11 +215,11 @@ Screenshots below show a demonstration of sample data response from the deployed
 
 **Demo**
 
-![deployResults](Images/deployResults.png)
+![deployResults](Images/deployResults.PNG)
 
 **Deployed Model**
 
-![deployedModel](Images/deployedModel.png)
+![deployedModel](Images/deployedModel.PNG)
 
 ## Screen Recording
 
@@ -230,7 +229,7 @@ The screencast shows the entire process of the working ML application, including
 1. Demo of the deployed model
 1. Demo of a sample request sent to the endpoint and its response
 
-[![Capstone Project Azure Machine Learning Engineer](https://img.youtube.com/vi/GKzv8udPyNw/0.jpg)](https://www.youtube.com/watch?v=GKzv8udPyNw)
+[![Capstone Project Azure Machine Learning Engineer](https://youtu.be/zH0o5B2BU-c)
 
 ## Citation
 Yöntem, M , Adem, K , İlhan, T , Kılıçarslan, S. (2019). DIVORCE PREDICTION USING CORRELATION BASED FEATURE SELECTION AND ARTIFICIAL NEURAL NETWORKS. Nevşehir Hacı Bektaş Veli University SBE Dergisi, 9 (1), 259-273.
