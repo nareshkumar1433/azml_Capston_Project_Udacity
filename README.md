@@ -146,9 +146,9 @@ warm_start | False
 
 **Run Details Widget**
 
-![autoML_runDetails](Images/autoML_runDetails.png)
+![autoML_runDetails](Images/autoML_runDetails.PNG)
 
-![autoML_runDetails_accuracy](Images/autoML_accuracy.png)
+![autoML_runDetails_accuracy](Images/autoML_accuracy.PNG)
 
 **Best Model**
 
