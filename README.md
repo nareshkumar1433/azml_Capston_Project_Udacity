@@ -77,7 +77,7 @@ As we have to predict either of two states (Divorce/No Divorce), this problem is
 
 The dataset has been uploaded into this github repository and it can be accessed using the link as below:
 
-https://raw.githubusercontent.com/khalidw/Capstone-Project-Azure-Machine-Learning-Engineer/master/divorce.csv
+https://raw.githubusercontent.com/nareshkumar1433/azml_Capston_Project_Udacity/main/divorce.csv
 
 We used method `from_delimited_files('webURL')` of the `TabularDatasetFactory` Class to retreive data from the csv file (link provided above).
 
