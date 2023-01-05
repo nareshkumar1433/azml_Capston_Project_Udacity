@@ -10,7 +10,7 @@ import pandas as pd
 from azureml.core.run import Run
 from azureml.data.dataset_factory import TabularDatasetFactory
 
-data_loc = "https://raw.githubusercontent.com/khalidw/Capstone-Project-Azure-Machine-Learning-Engineer/master/divorce.csv"
+data_loc = "https://raw.githubusercontent.com/nareshkumar1433/azml_Capston_Project_Udacity/main/divorce.csv"
 ds = TabularDatasetFactory.from_delimited_files(data_loc)
 
 
